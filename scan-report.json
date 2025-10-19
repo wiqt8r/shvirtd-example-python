@@ -1,0 +1,11 @@
+{
+  "id": "che6h3iscoci350g3b3v",
+  "image_id": "crp40p08fnhss6iuk813",
+  "scanned_at": "2025-10-18T14:22:08.981Z",
+  "status": "READY",
+  "vulnerabilities": {
+    "medium": "1",
+    "low": "51"
+  }
+}
+
